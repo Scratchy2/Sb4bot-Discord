@@ -273,4 +273,4 @@ async def on_message(message: n.Message):
 			j.dump(data, f, indent=4)
 			f.truncate()
 
-bot.run("MTIwNDYxNjE0OTQ5MzYxNjY2MA.GX8Ne3.Hze4CXz3irJfQyml_N1C_0RVwFdtYNW2eopsIc")
+bot.run("not telling you haha the upload is fake")
